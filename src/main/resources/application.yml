@@ -1,0 +1,37 @@
+github:
+  client:
+    clientId: 70dcxxxxxxxxbfcc
+    clientSecret: 3c01acxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx29403
+    accessTokenUri: https://github.com/login/oauth/access_token
+    userAuthorizationUri: https://github.com/login/oauth/authorize
+    tokenName: access_token
+    authenticationScheme: query
+    clientAuthenticationScheme: form
+  resource:
+    userInfoUri: https://api.github.com/user
+#  sso:
+#    login-path: /login
+github2:
+  client:
+    clientId: ddbdxxxxfa48
+    clientSecret: be22exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx417f
+    accessTokenUri: https://github.com/login/oauth/access_token
+    userAuthorizationUri: https://github.com/login/oauth/authorize
+    tokenName: access_token
+    authenticationScheme: query
+    clientAuthenticationScheme: form
+  resource:
+    userInfoUri: https://api.github.com/user
+#google:
+#  client:
+#    clientId: 694649000341-obulexxxxxxxxxxxx743e32maru4k3n.apps.googleusercontent.com
+#    clientSecret: B5em5QNxxxxxxxxxxxxMIjZ
+#    accessTokenUri: https://accounts.google.com/o/oauth2/token
+#    userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+#    clientAuthenticationScheme: form
+#    scope: email
+#  resource:
+#    userInfoUri: https://www.googleapis.com/oauth2/v1/certs
+#logging:
+#  level:
+#    root: debug

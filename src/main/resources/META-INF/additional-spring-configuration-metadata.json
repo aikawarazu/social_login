@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "github.client.userAuthorizationUri",
+      "type": "java.lang.String",
+      "description": "Description for github.client.userAuthorizationUri."
+    },
+    {
+      "name": "facebook.client.clientAuthenticationScheme",
+      "type": "java.lang.String",
+      "description": "Description for facebook.client.clientAuthenticationScheme."
+    }
+  ] }
